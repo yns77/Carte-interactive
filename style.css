@@ -1,0 +1,56 @@
+/* votre code CSS */
+body{
+  height: 100vh;
+}
+
+p {
+  color:rgb(2, 104, 2);
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+}
+
+#mapid {
+  height: 80vh;
+  width: 100%;
+}
+
+.form {
+  border: 2px solid rgb(0, 129, 43);
+  border-radius: 4px;
+  padding: 5px;
+  width: 65%;
+}
+
+.input {
+  border: 2px solid rgb(0, 129, 43);
+  background-color: white;
+  border-radius: 4px;
+  padding: 5px;
+  width: 30%;
+  text-transform: uppercase;
+  color: rgb(0, 129, 43);
+}
+
+.input:hover {
+  background-color: rgb(0, 129, 43);
+  color: white;
+  border-radius: 4px;
+  
+}
+
+.input2 {
+  border: 2px solid blue;
+  background-color: white;
+  border-radius: 4px;
+  color: blue;
+  margin-top: 5px;
+  padding: 10px;
+  width: 25%;
+  text-transform: uppercase;
+}
+
+.input2:hover {
+  background-color: purple;
+  color: white;
+  border-radius: 3px;
+}
